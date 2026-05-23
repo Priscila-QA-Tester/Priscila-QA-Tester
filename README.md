@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello! I'm Priscila Marques Ribeiro 👋
 
-<!--
-**Priscila-QA-Tester/Priscila-QA-Tester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 About Me
+I am a **Quality Assurance (QA) Analyst** passionate about ensuring software reaches the end user with the best possible experience. I have a critical eye for detail and am currently transitioning to become a Test Automation Specialist. I believe that quality is not just about finding bugs, but preventing them from happening.
 
-Here are some ideas to get you started:
+### 🎯 Current Focus
+Currently, I am diving deep into End-to-End (E2E) and API test automation. My goal is to build efficient CI/CD pipelines and write clear, maintainable automated tests.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills and Tools
+* **Manual & Exploratory Testing:** Test Case Creation, Bug Reporting (Jira).
+* **Automation:** Studying Playwright and Cypress.
+* **Methodologies:** BDD (Behavior-Driven Development), Gherkin.
+* **Languages & Tech:** JavaScript, Basic SQL, Git, GitHub.
+
+### 📚 What I'm Learning Right Now
+* 🚀 Creating robust E2E scripts with **Playwright**.
+* ⚙️ Integrating automated tests into **GitHub Actions** (CI/CD).
+* 📝 Improving BDD/Gherkin scenario writing focused on user behavior.
+
+### 📫 How to Reach Me
+* **LinkedIn:** [linkedin.com/in/priscilamarques1](https://www.linkedin.com/in/priscilamarques1)
+* **Email:** priscilamarques20232@yahoo.com
